@@ -1,0 +1,11 @@
+C:\Users\teche\source\repos\Morze\Morze\bin\Debug\Morze.exe.config
+C:\Users\teche\source\repos\Morze\Morze\bin\Debug\Morze.exe
+C:\Users\teche\source\repos\Morze\Morze\bin\Debug\Morze.pdb
+C:\Users\teche\source\repos\Morze\Morze\obj\Debug\Morze.Form1.resources
+C:\Users\teche\source\repos\Morze\Morze\obj\Debug\Morze.Properties.Resources.resources
+C:\Users\teche\source\repos\Morze\Morze\obj\Debug\Morze.csproj.GenerateResource.cache
+C:\Users\teche\source\repos\Morze\Morze\obj\Debug\Morze.csproj.CoreCompileInputs.cache
+C:\Users\teche\source\repos\Morze\Morze\obj\Debug\Morze.exe
+C:\Users\teche\source\repos\Morze\Morze\obj\Debug\Morze.pdb
+C:\Users\teche\source\repos\Morze\Morze\obj\Debug\Morze.csproj.AssemblyReference.cache
+C:\Users\teche\source\repos\Morze\Morze\obj\Debug\Morze.csproj.SuggestedBindingRedirects.cache
